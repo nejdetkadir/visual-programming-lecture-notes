@@ -1,0 +1,17 @@
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\bin\Debug\netcoreapp3.1\AnalogClock.exe
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\bin\Debug\netcoreapp3.1\AnalogClock.deps.json
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\bin\Debug\netcoreapp3.1\AnalogClock.runtimeconfig.json
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\bin\Debug\netcoreapp3.1\AnalogClock.runtimeconfig.dev.json
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\bin\Debug\netcoreapp3.1\AnalogClock.dll
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\bin\Debug\netcoreapp3.1\AnalogClock.pdb
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.csprojAssemblyReference.cache
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.Form1.resources
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.Properties.Resources.resources
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.csproj.GenerateResource.cache
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.AssemblyInfoInputs.cache
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.AssemblyInfo.cs
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.dll
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.pdb
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.genruntimeconfig.cache
+C:\Users\nejdetkadirr\source\repos\AnalogClock\AnalogClock\obj\Debug\netcoreapp3.1\AnalogClock.FormAnalogClock.resources
