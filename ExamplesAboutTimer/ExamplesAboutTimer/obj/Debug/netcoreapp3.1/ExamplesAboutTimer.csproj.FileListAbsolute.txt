@@ -1,0 +1,17 @@
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\bin\Debug\netcoreapp3.1\ExamplesAboutTimer.exe
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\bin\Debug\netcoreapp3.1\ExamplesAboutTimer.deps.json
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\bin\Debug\netcoreapp3.1\ExamplesAboutTimer.runtimeconfig.json
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\bin\Debug\netcoreapp3.1\ExamplesAboutTimer.runtimeconfig.dev.json
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\bin\Debug\netcoreapp3.1\ExamplesAboutTimer.dll
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\bin\Debug\netcoreapp3.1\ExamplesAboutTimer.pdb
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.csprojAssemblyReference.cache
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.Form1.resources
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.csproj.GenerateResource.cache
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.AssemblyInfoInputs.cache
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.AssemblyInfo.cs
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.csproj.CoreCompileInputs.cache
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.dll
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.pdb
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.genruntimeconfig.cache
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.Form2.resources
+C:\Users\nejdetkadirr\source\repos\ExamplesAboutTimer\ExamplesAboutTimer\obj\Debug\netcoreapp3.1\ExamplesAboutTimer.Form3.resources
